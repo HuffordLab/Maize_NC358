@@ -6,7 +6,7 @@ This is the repository to store codes and commands for the maize NC358 assembly 
 5. [Super-scaffolding](https://github.com/HuffordLab/Maize_NC358/tree/master/Bionano)
 6. [Generation of pseudomolecules](https://github.com/HuffordLab/Maize_NC358/tree/master/AGP)
 7. [Gene annotation](https://github.com/HuffordLab/Maize_NC358/tree/master/MAKER)
-8. [LTR_analysis](https://github.com/HuffordLab/Maize_NC358/tree/maker_scripts2/LTR_analyses)
+8. [LTR_analysis](https://github.com/HuffordLab/Maize_NC358/tree/master/LTR_analyses)
 9. [Assessing component assemblies](https://github.com/HuffordLab/Maize_NC358/tree/master/Component_assembly)
 10. [Figure plotting](https://github.com/HuffordLab/Maize_NC358/tree/master/plotting)
 
